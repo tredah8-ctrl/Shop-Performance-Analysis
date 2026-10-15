@@ -1,6 +1,6 @@
 # Shop-Performance-Analysis
 
-# 🛒 Shop Performance Analysis
+#  Shop Performance Analysis
 
 ## 📌 Project Overview
 
